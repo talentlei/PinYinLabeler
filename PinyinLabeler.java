@@ -13,7 +13,7 @@ import java.util.Vector;
 
 /**
  * 该类用于对字符串进行注音，暂时未支持对英文进行注音，如需对英文注音，可将一些常见音加入到词表pinyin_simp.txt中
- * @author chenlei
+ * @author cl
  *
  */
 
