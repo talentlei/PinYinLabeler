@@ -18,10 +18,14 @@ import com.ict.cl.PinyinLabeler;
 
 
 public class Laber {
+
 	public static void main(String [] args){
+	
 		String text = "参加会议";
 		System.out.println(text+"-->"+PinyinLabeler.getPinyin(text));
+
 	}
+
 }
 
 参加会议-->can jia hui yi
